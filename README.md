@@ -4,8 +4,11 @@ This is a simple implementation of the Deep Q-learning network of the Atari Brea
 # Requirements
 
 python 3.6
+
 gym (pip install gym['atari'])
+
 pytorch (pip install torch)
+
 cuda (run on GPU)
 
 
